@@ -2,7 +2,7 @@
 Picnic Trip Information Form
 
 
-The form is made in HTML, and javascript and connected to the JsonPowerBD database.
+This is a basic picnic trip form. Form is made in HTML, and javascript and connected to the JsonPowerBD database.
 
 
 jsonPowerDB is a easy and fast to develop database application without using any server side programming scripting or without installing any kind of database.
